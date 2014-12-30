@@ -29,8 +29,8 @@
 #endif
 
 // TRUE and FALSE are defined by default on the Spark
-//#define FALSE 0
-//#define TRUE  1
+#define FALSE (0)
+#define TRUE  (1)
 
 class OneWire
 {
