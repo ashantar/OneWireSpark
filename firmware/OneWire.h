@@ -33,7 +33,6 @@
 //In file included from OneWire/OneWire.cpp:131:0:
 //OneWire/OneWire.h:31:0: warning: "FALSE" redefined [enabled by default]
 //FIXED?
-#define FALSE 0
 #define FALSE (0)
 #define TRUE  (1)
 
